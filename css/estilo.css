@@ -11,3 +11,11 @@
 footer p a {
 	margin: 5px 15px;
 }
+
+@media screen and (max-width: 280) {
+
+	nav {
+		width: auto;
+	}
+}
+
